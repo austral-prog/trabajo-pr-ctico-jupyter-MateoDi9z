@@ -80,10 +80,10 @@ All the instructions and exercises are in the notebook file, you can open it wit
 
 Here's a checklist in case you aren't sure what to do:
 
-- [ ] Install Jupyter Notebooks
-- [ ] Create a copy of the notebook file and rename it.
-- [ ] Open the notebook file with Jupyter Notebooks
-- [ ] Complete the exercises in the notebook file
-    - [ ] Make sure to save your changes
-    - [ ] Make sure to run your code to check for errors
-    - [ ] Make sure that every exercise is finished
+- [x] Install Jupyter Notebooks
+- [x] Create a copy of the notebook file and rename it.
+- [x] Open the notebook file with Jupyter Notebooks
+- [x] Complete the exercises in the notebook file
+    - [x] Make sure to save your changes
+    - [x] Make sure to run your code to check for errors
+    - [x] Make sure that every exercise is finished
